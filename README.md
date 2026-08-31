@@ -1,7 +1,5 @@
-![LoRaCS Logo](./images/loracs.png)
+![Mori Logo](./images/mori-full.png)
 
-### LoRaCS: A Long-Range Community System
+### Mori: A Local Web System
 
-An in-progress project. Will see much development in Summer 2026!
-
-More info here! https://loracs.net
+More info here! https://moriproject.net
